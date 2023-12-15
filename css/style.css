@@ -106,14 +106,19 @@ img.avatar {
 	margin-bottom: 30px; 
 }
 
-/* Contact */
+/* Cover letter*/
 
 iframe {
 	font-family: 'Merriweather', Georgia, Times; 
 	font-size: 16px;
 }
 
-/* About */
+.greeting {
+	margin-top: 55px;
+	margin-bottom: 15px;
+}
+
+/* Contact */
 .about ul.list-unstyled li { 
 	line-height: 30px; 
 	text-indent: -30px; 
