@@ -1,0 +1,13 @@
+title: RUEILI JHANG
+description: 'A passionate Web developer.'
+url: "https://Rubyyyyy97.github.io"
+baseurl: ""
+
+author:
+  name: 'RueiLi Jhang'
+  email: 2020443@student.cct.ie
+  github_username:  Rubyyyyy97
+  linkedin_username:  RueiLi Jhang
+  
+permalink: /notes/:year/:month/:day/:title
+markdown: kramdown
